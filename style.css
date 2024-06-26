@@ -1,0 +1,73 @@
+*{
+    background-color: rgb(241, 241, 241);
+    font-family: "Open Sans bold", sans-serif;
+}
+#temp1{
+    font-size: 24px;
+    padding-left: 30px;
+    margin-top: -15px;
+}
+#container{
+       margin-left: 250px;
+       margin-top: 200px;
+}
+#dlogin{
+        width: auto;
+        height: 280px;
+        margin-left: 800px;
+        margin-top:-230px;
+        display: inline-block;
+        text-align: center;
+        align-content: center;
+        background-color: rgb(255, 255, 255);
+        border-radius: 10px;
+        padding: 30px;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        
+}
+#e1{
+    width: 350px;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 1px;
+    background-color: transparent;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+#e2{
+    width: 350px;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 15px;
+    background-color: transparent;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+#login{
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #286eef;
+    border: none;
+    border-radius: 3px;
+    color: white;
+}
+#forgot{
+        color: #0052ea;
+        background-color: transparent;
+        font-size: 16px;
+}
+#create{
+    width: fit-content;
+    padding: 10px;
+    background-color: #33c154;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+    color: white;
+}
+#allcontent{
+    
+}
